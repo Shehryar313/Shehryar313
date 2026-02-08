@@ -1,6 +1,10 @@
 # 💫 About Me:
-I am student of bahria university<br>I am currently learning mobile app dev<br>i have skilled in full stack dev <br>I am looking for collaboration on desinging web
+ Hi, I'm Muhammad Shehryar! 👋<br>I'm a Full stack web-developer from Islamabad, Pakistan, focusing on practical tools for everyday problems.<br>I love coding in C/C++ and JavaScript.<br>
 
+🛠️ My Skills
+- Languages: Python, JavaScript, HTML/CSS
+- Tools: Git, Node.js, React, MongoDB
+- Interests: Security, Web Apps, Local Tech Solutions
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-shehryar-1a27a9311) 
